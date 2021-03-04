@@ -1,19 +1,18 @@
 <div align="center">
    <h1>Hi there, I'm Vitor Cantão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-![Imgur](https://i.imgur.com/XK4a0uB.gif)
+![Imgur](assets/gifs/vitor-cantao-small.gif)
 
-<!--
-**VitorCantao/VitorCantao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Badge](assets/icons/gamedev_button_icon_151912.svg)
+![Badge](assets/icons/unity_button_icon_151945.svg)
+![Badge](assets/icons/csharp_dotnet_button_icon_151936.svg)
+![Badge](assets/icons/flutter_button_icon_151957.svg)
+![Badge](assets/icons/python_button_icon_151925.svg)
+![Badge](assets/icons/java_button_icon_151928.svg)
+![Badge](assets/icons/js_button_icon_151927.svg)
+![Badge](assets/icons/r_button_icon_151924.svg)
+![Badge](assets/icons/swift_button_icon_151920.svg)
+![Badge](assets/icons/vue_button_icon_151943.svg)
+![Badge](assets/icons/nodejs_button_icon_151951.svg)
+![Badge](assets/icons/html_button_icon_151929.svg)
+![Badge](assets/icons/css_button_icon_151935.svg)
