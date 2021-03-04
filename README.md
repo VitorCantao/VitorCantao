@@ -1,7 +1,9 @@
 <div align="center">
    <h1>Hi there, I'm Vitor Cantão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-![Imgur](assets/gifs/vitor-cantao-small.gif)
+<div align="center">
+   <img src="assets/gifs/vitor-cantao-small.gif" width="600px">
+
 
 ![Badge](assets/icons/gamedev_button_icon_151912.svg)
 ![Badge](assets/icons/unity_button_icon_151945.svg)
