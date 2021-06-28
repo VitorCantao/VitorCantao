@@ -18,3 +18,8 @@
 ![Badge](assets/icons/nodejs_button_icon_151951.svg)
 ![Badge](assets/icons/html_button_icon_151929.svg)
 ![Badge](assets/icons/css_button_icon_151935.svg)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
