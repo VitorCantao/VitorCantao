@@ -12,4 +12,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://60da6d73326ae60008db65d0--vitorcantao.netlify.app/index.xml"
-          max_post_count: 2
