@@ -42,4 +42,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Gomoku Telegram](https://www.vitorcantao.com/post/gomoku-telegram/)
 - [Intro to Game Development in Unity - Pong](https://www.vitorcantao.com/post/2-intro-to-game-development-in-unity-pong/)
+- [Intro to Game Development in Unity - Pong](https://www.vitorcantao.com/post/intro-to-game-development-in-unity-pong/)
 <!-- BLOG-POST-LIST:END -->
