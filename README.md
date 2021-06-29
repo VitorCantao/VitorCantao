@@ -8,22 +8,19 @@
 
  <br>
  <br>
-
-- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
-- 🌱 I’m currently learning **Go and Algorithms**
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
-
  <br>
+
+- 🔭 Currently working as a Software Engineer
+- 🌱 As a passionate game developer I'm always working on new projects
+- 🎵 I love making music and Art in general
+- 📫 How to reach me: leave a comment at my website or [@PurpleSkyD](https://twitter.com/purpleskyd) on twitter
+- 💬 Ask me about anything!
+
  <br>
  <br>
  <br>
 
 -------
-
-
-
 
 ![Badge](assets/icons/gamedev_button_icon_151912.svg)
 ![Badge](assets/icons/unity_button_icon_151945.svg)
