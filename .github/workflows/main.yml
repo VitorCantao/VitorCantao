@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://60da6d73326ae60008db65d0--vitorcantao.netlify.app/index.xml"
+          feed_list: "https://www.vitorcantao.com//index.xml"
