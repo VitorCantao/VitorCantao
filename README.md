@@ -24,6 +24,7 @@
 
 **📝 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[Demo] Character Controller with HFSM](https://www.vitorcantao.com/post/character-controller/)
 - [Gomoku Telegram](https://www.vitorcantao.com/post/gomoku-telegram/)
 - [Intro to Game Development in Unity - Pong 2](https://www.vitorcantao.com/post/2-intro-to-game-development-in-unity-pong/)
 - [Intro to Game Development in Unity - Pong 1](https://www.vitorcantao.com/post/intro-to-game-development-in-unity-pong/)
