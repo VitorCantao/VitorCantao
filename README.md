@@ -24,6 +24,7 @@
 
 **📝 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Recreating the Gloo Cannon from Prey in Unreal &lpar;C++&rpar;](https://www.vitorcantao.com/post/gloo-cannon/)
 - [[Demo] Character Controller with HFSM](https://www.vitorcantao.com/post/character-controller/)
 - [Gomoku Telegram](https://www.vitorcantao.com/post/gomoku-telegram/)
 - [Intro to Game Development in Unity - Pong 2](https://www.vitorcantao.com/post/2-intro-to-game-development-in-unity-pong/)
