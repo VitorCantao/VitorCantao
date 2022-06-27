@@ -1,10 +1,10 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Vitor Cantao.</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello! I'm Vitor Cantao.</h2>
 <p align="center">
   <a href="https://vitorcantao.com"><b>Blog</b></a> •
   <a href="https://twitter.com/purpleskyd">Twitter</a>
 </p>
 
-<img align="right" src="assets/gifs/vitor-cantao-small.gif" width="300px">
+<img align="right" src="assets/gifs/vitor-cantao-small.gif" width="300">
 
  <br>
  <br>
